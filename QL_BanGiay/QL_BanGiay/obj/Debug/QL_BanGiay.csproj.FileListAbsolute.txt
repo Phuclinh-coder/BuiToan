@@ -1,0 +1,248 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmLogin.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CopyComplete
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe.licenses
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmMain.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmLogin.resources
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmMain.resources
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\OneDrive\Máy tính\LTTQ\BTL\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmLogin.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmMain.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe.licenses
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmNhanVien.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKhachHang.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmSanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmBaoCao.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.TuNgay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChiTietSanPham.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChatLieu.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKieuGiay.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmThuongHieu.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKho.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChitietHDB.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmHoaDonBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChiTietHDN.resources
+C:\Users\ADMIN\OneDrive\Máy tính\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmHoaDonNhap.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmBaoCao.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.TuNgay.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKhachHang.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChiTietSanPham.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChatLieu.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKho.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKieuGiay.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmSanPham.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmThuongHieu.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmLogin.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmMain.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmNhanVien.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChitietHDB.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmHoaDonBan.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChiTietHDN.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmHoaDonNhap.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe.licenses
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+C:\Users\ADMIN\Downloads\BTL_LTTQ_QL_BanGiay-20230601T144924Z-001\BTL_LTTQ_QL_BanGiay\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe.config
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.exe
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\bin\Debug\QL_BanGiay.pdb
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmBaoCao.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.TuNgay.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKhachHang.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChiTietSanPham.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChatLieu.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKho.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmKieuGiay.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmSanPham.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmThuongHieu.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmLogin.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.frmMain.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmNhanVien.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChitietHDB.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmHoaDonBan.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmChiTietHDN.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.FrmHoaDonNhap.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.Properties.Resources.resources
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe.licenses
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.exe
+C:\Users\Admin\Desktop\doanBuiToan\Winform\WinForm_QuanLyBanGiay-main\QL_BanGiay\QL_BanGiay\obj\Debug\QL_BanGiay.pdb
